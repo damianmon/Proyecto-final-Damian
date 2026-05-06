@@ -5,7 +5,7 @@
 let proyectos = [
   {
     nombre: "Receta de la Abuela",
-    url: "Proyectos/01-Receta-Abuela/index.html"
+    url: "Proyectos/01-Receta-Abuela/index.html",
   },
   {
     nombre: "Blog del Hacker",
@@ -17,7 +17,7 @@ let proyectos = [
   },
   {
     nombre: "Landing",
-    url: "Proyectos/04-Landign-Producto/index.html",
+    url: "Proyectos/04-Landing-Producto/index.html",
   },
   {
     nombre: "Gestor de Tareas",
