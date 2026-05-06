@@ -5,7 +5,7 @@
 let proyectos = [
   {
     nombre: "Receta de la Abuela",
-    url: "Proyecto-final-Damian/proyectos/01-Receta-Abuela/index.html"
+    url: "Proyectos/01-Receta-Abuela/index.html"
   },
   {
     nombre: "Blog del Hacker",
